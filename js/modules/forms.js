@@ -13,7 +13,7 @@ function forms(formSelector) {
     const message = {
         loading: "img/form/spinner.svg",
         success: "Спасибо, Ваш запрос отправлен. Мы свяжемся с Вами в ближайшее время",
-        error: "error"
+        error: "Ошибка отправки формы"
     };
 
     forms.forEach(item => {
