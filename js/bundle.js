@@ -263,7 +263,7 @@ function forms(formSelector) {
     const forms = document.querySelectorAll(formSelector);
     const message = {
         loading: "img/form/spinner.svg",
-        success: "Спасибо, Ваш запрос отправлен. Мы свяжемся с Вами в ближайшее время.",
+        success: "Спасибо, Ваш запрос отправлен. Мы свяжемся с Вами в ближайшее время",
         error: "error"
     };
 
