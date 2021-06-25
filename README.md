@@ -11,4 +11,4 @@
 	<li>Таймер обратного отсчета &quot;Осталось до конца акции&quot;</li>
 </ul>
 
-<p>Использовл webpack, babel, core-js</p>
+<p>Использовал webpack, babel, core-js</p>
